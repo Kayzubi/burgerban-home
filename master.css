@@ -3,6 +3,7 @@
     padding: 0;
 }
 body{
+    overflow-x: hidden;
     text-align: center;
     background-color: #f6f6f6;
     /* font-family: 'Raleway', sans-serif; */
